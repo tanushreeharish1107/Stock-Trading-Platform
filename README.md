@@ -1,1 +1,2 @@
 # Stock-Trading-Platform
+Developed a cross-platform stock trading application for web and iOS using Google Cloud, React.js, TypeScript, Bootstrap, Node.js, MongoDB, and Swift UI. Integrated real-time data streaming and designed interactive charting and portfolio tools to improve user decision-making and usability. Built robust backend services and optimized front-end performance, ensuring seamless data flow and a responsive user experience across devices.
